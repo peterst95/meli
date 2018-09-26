@@ -9,6 +9,7 @@
     <directory>/</directory>
     <parameters>
     </parameters>
+    <log>
       <trans-log-table>
         <connection/>
         <schema/>
